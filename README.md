@@ -6,10 +6,10 @@ a flutter project demonstrating welcome screen, login page and register page ui.
 
 ## ScreenShots 📷 
 <p float="left">
-  <img  src="screenshots/welcome_page.png" alt="Flutter Welcome Page" width="300" />
-  <img src="screenshots/signin_page.png" alt="flutter Sign in page" width="300" /> 
-  <img src="screenshots/register_page.png" alt="Register Page in flutter" width="300" />
-  <img src="screenshots/register_fields.png" alt="FLutter Ui design" width="300" />
+  <img  src="screenshots/welcomePage.png" alt="Flutter Welcome Page" width="300" />
+  <img src="screenshots/login.png" alt="flutter Sign in page" width="300" /> 
+  <img src="screenshots/register.png" alt="Register Page in flutter" width="300" />
+ // <img src="screenshots/register_fields.png" alt="FLutter Ui design" width="300" />
 </p>
 
 ## Support
