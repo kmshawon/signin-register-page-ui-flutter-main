@@ -54,7 +54,7 @@ class _SignInPageState extends State<SignInPage> {
                             height: 10,
                           ),
                           Text(
-                            "You've been missed!",
+                            "It’s fantastic to see you back with us",
                             style: kBodyText2,
                           ),
                           SizedBox(
